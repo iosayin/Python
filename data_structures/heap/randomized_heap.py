@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import random
 from collections.abc import Iterable
+from typing import Any
 
 
 class RandomizedHeapNode[T: bool]:
